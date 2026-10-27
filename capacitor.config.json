@@ -1,0 +1,6 @@
+{
+  "appId": "com.snake.dotmatrix",
+  "appName": "Snake",
+  "webDir": "www",
+  "backgroundColor": "#000000"
+}
